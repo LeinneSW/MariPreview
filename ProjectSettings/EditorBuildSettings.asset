@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MariPreview.unity
-    guid: 5255206057344a14bb046667671e34b2
+    path: Assets/MariPreview/Scenes/MariPreview.unity
+    guid: 41e906dd9c416e4478521defe320d357
   m_configObjects: {}

@@ -1,4 +1,17 @@
 * text=auto eol=crlf
+*.cs text eol=crlf
+*.meta text eol=crlf
+*.unity text eol=crlf
+*.prefab text eol=crlf
+*.asset text eol=crlf
+*.controller text eol=crlf
+*.json text eol=crlf
+*.md text eol=crlf
+*.txt text eol=crlf
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.anim filter=lfs diff=lfs merge=lfs -text
 *.png binary
-*.zip binary
+*.jpg binary
+*.jpeg binary
 *.obj binary
+*.zip binary

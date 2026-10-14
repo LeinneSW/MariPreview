@@ -1,40 +1,57 @@
-# 마리 점프게임 (MariJump)
+# MariPreview
 
-블루 아카이브의 이오치 마리를 주인공으로 만드는 Unity 점프게임입니다.
-개인 학습과 취미 개발을 위한 비공식 팬 프로젝트입니다.
+블루 아카이브의 이오치 마리 아이돌 모델과 애니메이션을 확인하는 독립 Unity 애플리케이션입니다. 개인 학습과 취미 개발을 위한 비공식 팬 프로젝트입니다.
 
-## 개발 현황
+![MariPreview 실행 화면](docs/images/preview.png)
 
-현재는 게임 제작을 위한 프로젝트와 3D 모델을 준비한 단계입니다.
+## 기능
 
-- Unity 및 URP 설정 완료
-- 아이돌 마리와 무대 모델 적용, 프리팹과 미리보기 씬 구성
-- 점프 조작, 충돌 판정, 관절 리깅 및 캐릭터 애니메이션 미구현
-
-![마리 모델 미리보기](docs/mari-preview.png)
+- `IdolStage` 무대에서 마리 모델·표정·모션 표시
+- 37개 애니메이션을 `기본`, `무릎`, `이동`, `점프·착지`, `카페`, `스킬`, `편성`, `승리`, `피격·퇴장`, `공용`의 10개 섹션으로 표시
+- 행위 선택, 일시정지, 처음부터 재생, 재생 위치·속도 조절
+- 반복을 끈 장전은 마지막 자세 유지, 반복을 켠 장전은 반복 재생
+- 전신 장전과 이동 중 상체 장전, 눈·얼굴·몸 방향 조절
+- 전신·얼굴 확대, 앞·사선·옆·뒤 시점, 드래그 회전과 휠 확대·축소
+- 창 높이에 맞춰 늘어나는 행위 패널과 섹션별 스크롤 목록
 
 ## 개발 환경
 
-| 항목 | 버전 |
+| 구성 | 버전 |
 |---|---|
 | Unity Editor | 6000.5.4f1 |
 | Universal Render Pipeline | 17.5.0 |
+| 실행 파일 | Windows 64비트 |
 
-## 프로젝트 열기
+대용량 FBX와 애니메이션은 Git LFS로 관리합니다. Git LFS가 설치된 환경에서 다음 순서로 준비합니다.
 
-1. 저장소를 내려받고 Unity Hub에서 프로젝트 폴더를 추가합니다.
-2. Unity 6000.5.4f1로 프로젝트를 엽니다.
-3. `Assets/Scenes/MariPreview.unity`에서 모델을 확인합니다.
+```powershell
+git clone https://github.com/LeinneSW/MariPreview.git
+cd MariPreview
+git lfs install --local
+git lfs pull
+```
 
-캐릭터 프리팹은 `Assets/Mari/Prefabs/MariIdol.prefab`입니다.
-모델 구성과 가능한 애니메이션은 [모델 변환 기록](docs/model-notes.md)에 정리했습니다.
+Unity Hub에서 프로젝트 폴더를 추가하고 [MariPreview 씬](Assets/MariPreview/Scenes/MariPreview.unity)을 열어 Play를 실행합니다.
 
-## 3D 모델 출처
+## 조작과 빌드
 
-- 모델: [[Blue Archive] -Mari (Idol)- | Chibi + Stage](https://sketchfab.com/3d-models/blue-archive-mari-idol-chibi-stage-7412827541324d13a557d2f4a7f8d3c4)
-- 배포자: [VuckyZ (@VuckyZ123)](https://sketchfab.com/VuckyZ123)
-- 배포 페이지의 라이선스: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
-- 원작: 블루 아카이브
-- 변경 내용: 캐릭터와 무대 분리, Unity 좌표와 크기 조정, 동일 정점 병합, 재질 경로 수정, URP 재질과 프리팹 구성
+| 조작 | 동작 |
+|---|---|
+| 행위 목록 | 해당 애니메이션 선택 |
+| 숫자 1·2·3·4 | 대기·걷기·달리기·무릎 대기 |
+| Space | 점프 |
+| 패널 밖 드래그·휠 | 카메라 회전·확대·축소 |
 
-모델의 출처와 라이선스 표기이며, 저장소 전체에 CC BY 4.0을 적용한다는 뜻은 아닙니다.
+Unity 메뉴 `Tools > 마리 프리뷰 > Windows 실행 파일 빌드`로 빌드합니다. 결과는 `Builds/Windows/MariPreview.exe`이며, 같은 폴더의 데이터와 DLL을 함께 사용합니다.
+
+`Library`, `Temp`, `Logs`, `UserSettings`, `Builds`, `Review`와 IDE 생성 파일은 커밋 대상에서 제외합니다.
+
+## 프로젝트 구성과 출처
+
+- [프리뷰 씬·UI·카메라](Assets/MariPreview)
+- [모션·시선·윤곽선 제어](Assets/Scripts)
+- [캐릭터·무대 프리팹](Assets/Prefabs)
+- [애니메이션 클립](Assets/Animations/MariOriginal)
+- [에셋 출처와 변경 내역](ASSET_SOURCES.md)
+
+모델·텍스처·애니메이션의 출처와 직접 작성한 프리뷰 소프트웨어의 범위는 에셋 출처 문서에 구분해 기록했습니다.

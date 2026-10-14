@@ -4,7 +4,16 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 /[Bb]uilds/
+/[Rr]eview/
 /.vs/
+.idea/
 *.csproj
 *.sln
 *.slnx
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db

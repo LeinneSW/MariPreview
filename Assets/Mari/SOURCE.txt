@@ -1,9 +1,0 @@
-자료: [Blue Archive] -Mari (Idol)- | Chibi + Stage
-배포자: VuckyZ (@VuckyZ123)
-원작: 블루 아카이브
-출처: https://sketchfab.com/3d-models/blue-archive-mari-idol-chibi-stage-7412827541324d13a557d2f4a7f8d3c4
-배포 페이지의 라이선스 표기: CC BY 4.0 (Creative Commons Attribution 4.0 International)
-라이선스: https://creativecommons.org/licenses/by/4.0/
-로컬 원본: blue-archive-mari-idol-chibi-stage.zip
-변환 내용: 캐릭터와 무대 분리, 좌표와 크기 정리, 동일 정점 병합, 재질 경로 수정, Unity 재질과 프리팹 구성
-뼈대, 스킨 웨이트, 블렌드 셰이프, 애니메이션은 원본 ZIP에 없습니다.

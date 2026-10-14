@@ -1,0 +1,13 @@
+MariPreview 에셋 출처
+
+전체 출처와 변경 내역: 프로젝트 루트의 ASSET_SOURCES.md
+캐릭터·리그·원본 모션: lihaohong6/BlueArchiveModels의 Mari (Idol).glb
+원본 리비전: 525ae0faeb0a89f54ef4023f3be3692dcb529e51
+무대·초기 정적 자료: Sketchfab의 VuckyZ (@VuckyZ123)
+무대 배포 페이지 라이선스: CC BY 4.0
+원작: 블루 아카이브
+
+Unity 캐릭터: Assets/Prefabs/Mari.prefab
+Unity 모델: Assets/Models/MariRig.fbx
+행위 클립: Assets/Animations/MariOriginal, 37개
+Unity 무대: Assets/Prefabs/IdolStage.prefab

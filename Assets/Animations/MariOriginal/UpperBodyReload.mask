@@ -1,0 +1,510 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UpperBodyReload
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 0
+  - m_Path: Mari
+    m_Weight: 0
+  - m_Path: Mari/bone_root
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 L Thigh"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 L Thigh/Bip001
+      L Calf"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 L Thigh/Bip001
+      L Calf/Bip001 L Foot"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 L Thigh/Bip001
+      L Calf/Bip001 L Foot/Bip001 L Toe0"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 L Thigh/Bip001_B_L
+      Hip"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 R Thigh"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 R Thigh/Bip001
+      R Calf"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 R Thigh/Bip001
+      R Calf/Bip001 R Foot"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 R Thigh/Bip001
+      R Calf/Bip001 R Foot/Bip001 R Toe0"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 R Thigh/Bip001_B_R
+      Hip"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 L Clavicle"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 L Clavicle/Bip001 L UpperArm"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001
+      L Finger0"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001
+      L Finger0/Bip001 L Finger01"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001
+      L Finger1"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001
+      L Finger1/Bip001 L Finger11"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001
+      L Finger2"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001
+      L Finger2/Bip001 L Finger21"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001
+      L Finger3"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001
+      L Finger3/Bip001 L Finger31"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001
+      L Finger4"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001
+      L Finger4/Bip001 L Finger41"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001_B_L Elbow"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001_B_L Wrist"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/bone_sleeve_L"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 L Clavicle/Bip001 L UpperArm/Bip001_B_L UpperArm Twist"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 L Clavicle/Bip001_B_L Deltoid"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Bip001 bone_eye_D_L"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Bip001 bone_eye_D_L/Bip001 bone_eye_D_L_01"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Bip001 bone_eye_D_L/Bip001 bone_eye_D_L_02"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Bip001 bone_eye_D_R"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Bip001 bone_eye_D_R/Bip001 bone_eye_D_R_01"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Bip001 bone_eye_D_R/Bip001 bone_eye_D_R_02"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Bip001 eye_L"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Bip001 eye_L/Bip001 eye_L_1"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Bip001 eye_L/Bip001 eye_L_2"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Bip001 eye_R"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Bip001 eye_R/Bip001 eye_R_1"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Bip001 eye_R/Bip001 eye_R_2"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Bip001 Xtra_eyeblowL1"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Bip001 Xtra_eyeblowL2"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Bip001 Xtra_eyeblowR1"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Bip001 Xtra_eyeblowR2"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Bip001 Xtra_eyeL"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/Bip001 Xtra_eyeR"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/bone_ear_L_01"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/bone_ear_L_01/bone_ear_L_02"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/bone_ear_R_01"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/bone_ear_R_01/bone_ear_R_02"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/bone_earing_L"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/bone_earing_R"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/bone_hair_F_01"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/bone_hair_F_01/bone_hair_F_02"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/bone_hair_FL_01"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/bone_hair_FL_01/bone_hair_FL_02"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/bone_hair_FR_01"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/bone_hair_FR_01/bone_hair_FR_02"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/bone_hair_L_01"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/bone_hair_L_01/bone_hair_L_02"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/bone_hair_R_01"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/bone_hair_R_01/bone_hair_R_02"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/bone_hat"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/bone_hat/bone_feather_00"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/bone_hat/bone_feather_00/bone_feather_01"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/bone_hat/bone_hat_cloth_01"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/bone_hat/bone_hat_cloth_01/bone_hat_cloth_02"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/bone_mouth"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/bone_tail_L_00"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/bone_tail_L_00/bone_tail_L_01"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/bone_tail_L_00/bone_tail_L_01/bone_tail_L_02"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/bone_tail_R_00"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/bone_tail_R_00/bone_tail_R_01"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/bone_tail_R_00/bone_tail_R_01/bone_tail_R_02"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/HaloRoot"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/HaloRoot/Mari_Original_Halo"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/HaloRoot/Mari_Original_Halo/\uD5E4\uC77C\uB85C"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 Neck/Bip001 Head/HaloRoot/Mari_Original_Halo/\uD5E4\uC77C\uB85C_\uC678\uACFD\uC120"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 R Clavicle"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 R Clavicle/Bip001 R UpperArm"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001
+      R Finger0"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001
+      R Finger0/Bip001 R Finger01"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001
+      R Finger1"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001
+      R Finger1/Bip001 R Finger11"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001
+      R Finger2"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001
+      R Finger2/Bip001 R Finger21"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001
+      R Finger3"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001
+      R Finger3/Bip001 R Finger31"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001
+      R Finger4"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001
+      R Finger4/Bip001 R Finger41"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001_B_R Elbow"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001_B_R Wrist"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/bone_sleeve_R"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 R Clavicle/Bip001 R UpperArm/Bip001_B_R UpperArm Twist"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/Bip001 R Clavicle/Bip001_B_R Deltoid"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/bone_breast_L"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/bone_breast_R"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/bone_corsage_01"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/Bip001 Spine/Bip001
+      Spine1/bone_corsage_01/bone_corsage_02"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_B_00"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_B_00/bone_skirt_B_01"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_B_00/bone_skirt_B_01/bone_skirt_B_02"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_B_00/bone_skirt_B_01/bone_skirt_B_02/bone_skirt_B_03"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_BL_00"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_BL_00/bone_skirt_BL_01"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_BL_00/bone_skirt_BL_01/bone_skirt_BL_02"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_BL_00/bone_skirt_BL_01/bone_skirt_BL_02/bone_skirt_BL_03"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_BR_00"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_BR_00/bone_skirt_BR_01"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_BR_00/bone_skirt_BR_01/bone_skirt_BR_02"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_BR_00/bone_skirt_BR_01/bone_skirt_BR_02/bone_skirt_BR_03"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_F_00"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_F_00/bone_skirt_F_01"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_F_00/bone_skirt_F_01/bone_skirt_F_02"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_F_00/bone_skirt_F_01/bone_skirt_F_02/bone_skirt_F_03"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_FL_00"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_FL_00/bone_skirt_FL_01"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_FL_00/bone_skirt_FL_01/bone_skirt_FL_02"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_FL_00/bone_skirt_FL_01/bone_skirt_FL_02/bone_skirt_FL_03"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_FR_00"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_FR_00/bone_skirt_FR_01"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_FR_00/bone_skirt_FR_01/bone_skirt_FR_02"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_FR_00/bone_skirt_FR_01/bone_skirt_FR_02/bone_skirt_FR_03"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_L_00"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_L_00/bone_skirt_L_01"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_L_00/bone_skirt_L_01/bone_skirt_L_02"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_L_00/bone_skirt_L_01/bone_skirt_L_02/bone_skirt_L_03"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_R_00"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_R_00/bone_skirt_R_01"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_R_00/bone_skirt_R_01/bone_skirt_R_02"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001 Pelvis/bone_skirt_R_00/bone_skirt_R_01/bone_skirt_R_02/bone_skirt_R_03"
+    m_Weight: 0
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001_Weapon"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001_Weapon/bone_gun_acs"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001_Weapon/bone_magazine_01"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001_Weapon/bone_magazine_02"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001_Weapon/bone_slide"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001_Weapon/fire_01"
+    m_Weight: 1
+  - m_Path: "Mari/bone_root/\uC6D0\uBCF8\uB9AC\uADF8/Bip001_Weapon/fire_02"
+    m_Weight: 1
+  - m_Path: piety
+    m_Weight: 0
+  - m_Path: "\uB208"
+    m_Weight: 0
+  - m_Path: "\uB208\uC379"
+    m_Weight: 0
+  - m_Path: "\uBA38\uB9AC\uCE74\uB77D"
+    m_Weight: 0
+  - m_Path: "\uBAB8"
+    m_Weight: 0
+  - m_Path: "\uC30D\uCEE4\uD480"
+    m_Weight: 0
+  - m_Path: "\uC5BC\uAD74"
+    m_Weight: 0
+  - m_Path: "\uC785_205"
+    m_Weight: 0
+  - m_Path: "\uC785_300"
+    m_Weight: 0
+  - m_Path: "\uC785_305"
+    m_Weight: 0
+  - m_Path: "\uC785_401"
+    m_Weight: 0
+  - m_Path: "\uC785_402"
+    m_Weight: 0
+  - m_Path: "\uC785_506"
+    m_Weight: 0
+  - m_Path: "\uC785_604"
+    m_Weight: 0
+  - m_Path: "\uC785_605"
+    m_Weight: 0
+  - m_Path: "\uC785_704"
+    m_Weight: 0
+  - m_Path: "\uC785_705"
+    m_Weight: 0
+  - m_Path: "\uC785_706"
+    m_Weight: 0
+  - m_Path: "\uC785_707"
+    m_Weight: 0
+  - m_Path: "piety_\uC678\uACFD\uC120"
+    m_Weight: 0
+  - m_Path: "\uB208_\uC678\uACFD\uC120"
+    m_Weight: 0
+  - m_Path: "\uB208\uC379_\uC678\uACFD\uC120"
+    m_Weight: 0
+  - m_Path: "\uBA38\uB9AC\uCE74\uB77D_\uC678\uACFD\uC120"
+    m_Weight: 0
+  - m_Path: "\uBAB8_\uC678\uACFD\uC120"
+    m_Weight: 0
+  - m_Path: "\uC30D\uCEE4\uD480_\uC678\uACFD\uC120"
+    m_Weight: 0
+  - m_Path: "\uC5BC\uAD74_\uC678\uACFD\uC120"
+    m_Weight: 0
+  - m_Path: "\uC785_205_\uC678\uACFD\uC120"
+    m_Weight: 0
+  - m_Path: "\uC785_300_\uC678\uACFD\uC120"
+    m_Weight: 0
+  - m_Path: "\uC785_305_\uC678\uACFD\uC120"
+    m_Weight: 0
+  - m_Path: "\uC785_401_\uC678\uACFD\uC120"
+    m_Weight: 0
+  - m_Path: "\uC785_402_\uC678\uACFD\uC120"
+    m_Weight: 0
+  - m_Path: "\uC785_506_\uC678\uACFD\uC120"
+    m_Weight: 0
+  - m_Path: "\uC785_604_\uC678\uACFD\uC120"
+    m_Weight: 0
+  - m_Path: "\uC785_605_\uC678\uACFD\uC120"
+    m_Weight: 0
+  - m_Path: "\uC785_704_\uC678\uACFD\uC120"
+    m_Weight: 0
+  - m_Path: "\uC785_705_\uC678\uACFD\uC120"
+    m_Weight: 0
+  - m_Path: "\uC785_706_\uC678\uACFD\uC120"
+    m_Weight: 0
+  - m_Path: "\uC785_707_\uC678\uACFD\uC120"
+    m_Weight: 0
